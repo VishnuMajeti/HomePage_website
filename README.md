@@ -42,7 +42,7 @@ To work on and test this website locally, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/digital-marketing-website.git
+git clone https://github.com/VishnuMajeti/HomePage_website.git
 Navigate to the project folder
 
 Viewing the Website:
